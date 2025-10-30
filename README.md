@@ -1,13 +1,4 @@
-
-
-    _  __     _ _   _  __    _    ____
-   | |/ /    | | | (_)/ /   | |  / / |
-   | ' / __ _| | |_| / /_   | | / /| |
-   |  < / _` | | __| | '_ \ | |/ / | |
-   | . \ (_| | | |_| | (_) || |\ \ |_|
-   |_|\_\__,_|_|\__|_|\___/ |_| \_(_)
-
-        Kali Linux Commands Master
+       Kali Linux Commands Master
 
         Complete Penetration Testing Reference
 
