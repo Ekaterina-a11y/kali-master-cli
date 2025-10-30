@@ -1,7 +1,0 @@
-"mytool": {
-  "category": "Perso",
-  "commands": {
-    "Scan custom": "mytool -t TARGET"
-  },
-  "tags": ["custom", "scan"]
-}
