@@ -1,0 +1,18 @@
+{
+  "ffuf": {
+    "category": "Reconnaissance Web",
+    "commands": {
+      "Fuzzing répertoires": "ffuf -u http://TARGET/FUZZ -w /usr/share/wordlists/dirb/common.txt",
+      "Fuzzing sous-domaines": "ffuf -u http://FUZZ.TARGET -w subdomains.txt"
+    },
+    "tags": ["fuzz", "web", "directory", "subdomain"]
+  },
+  "nmap": {
+    "category": "Scan Réseau",
+    "commands": {
+      "Scan rapide": "nmap -sS TARGET",
+      "Tous les ports": "nmap -p- TARGET"
+    },
+    "tags": ["port", "network", "discovery"]
+  }
+}
