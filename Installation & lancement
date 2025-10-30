@@ -1,6 +1,0 @@
-git clone https://github.com/youruser/kali-master-cli.git
-cd kali-master-cli
-python -m venv venv
-source venv/bin/activate
-pip install -e .
-kali-master
