@@ -1,4 +1,4 @@
-# kali-master-cli# 🛠️ Kali Master CLI
+🛠️ Kali Master CLI
 
 Interactive, fuzzy-powered CLI for Kali Linux penetration testing tools.
 
