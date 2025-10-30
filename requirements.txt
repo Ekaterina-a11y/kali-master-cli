@@ -1,5 +1,0 @@
-rich
-prompt-toolkit
-fuzzywuzzy
-pyperclip
-python-Levenshtein
